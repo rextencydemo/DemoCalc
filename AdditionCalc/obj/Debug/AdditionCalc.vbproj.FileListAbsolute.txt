@@ -1,0 +1,10 @@
+C:\temp\Addition\AdditionCalc\AdditionCalc\bin\Debug\AdditionCalc.exe.config
+C:\temp\Addition\AdditionCalc\AdditionCalc\bin\Debug\AdditionCalc.exe
+C:\temp\Addition\AdditionCalc\AdditionCalc\bin\Debug\AdditionCalc.pdb
+C:\temp\Addition\AdditionCalc\AdditionCalc\bin\Debug\AdditionCalc.xml
+C:\temp\Addition\AdditionCalc\AdditionCalc\obj\Debug\AdditionCalc.Form1.resources
+C:\temp\Addition\AdditionCalc\AdditionCalc\obj\Debug\AdditionCalc.Resources.resources
+C:\temp\Addition\AdditionCalc\AdditionCalc\obj\Debug\AdditionCalc.vbproj.GenerateResource.Cache
+C:\temp\Addition\AdditionCalc\AdditionCalc\obj\Debug\AdditionCalc.exe
+C:\temp\Addition\AdditionCalc\AdditionCalc\obj\Debug\AdditionCalc.xml
+C:\temp\Addition\AdditionCalc\AdditionCalc\obj\Debug\AdditionCalc.pdb
