@@ -8,3 +8,13 @@ C:\temp\Addition\AdditionCalc\AdditionCalc\obj\Debug\AdditionCalc.vbproj.Generat
 C:\temp\Addition\AdditionCalc\AdditionCalc\obj\Debug\AdditionCalc.exe
 C:\temp\Addition\AdditionCalc\AdditionCalc\obj\Debug\AdditionCalc.xml
 C:\temp\Addition\AdditionCalc\AdditionCalc\obj\Debug\AdditionCalc.pdb
+C:\temp\DemoCalc\AdditionCalc\bin\Debug\AdditionCalc.exe.config
+C:\temp\DemoCalc\AdditionCalc\obj\Debug\AdditionCalc.exe
+C:\temp\DemoCalc\AdditionCalc\obj\Debug\AdditionCalc.xml
+C:\temp\DemoCalc\AdditionCalc\obj\Debug\AdditionCalc.pdb
+C:\temp\DemoCalc\AdditionCalc\bin\Debug\AdditionCalc.exe
+C:\temp\DemoCalc\AdditionCalc\bin\Debug\AdditionCalc.pdb
+C:\temp\DemoCalc\AdditionCalc\bin\Debug\AdditionCalc.xml
+C:\temp\DemoCalc\AdditionCalc\obj\Debug\AdditionCalc.Form1.resources
+C:\temp\DemoCalc\AdditionCalc\obj\Debug\AdditionCalc.Resources.resources
+C:\temp\DemoCalc\AdditionCalc\obj\Debug\AdditionCalc.vbproj.GenerateResource.Cache
